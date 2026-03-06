@@ -1,0 +1,114 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "category": "coach"
+    },
+    {
+      "id": "2",
+      "name": "Sam",
+      "category": "player"
+    },
+    {
+      "id": "3",
+      "name": "Jordan",
+      "category": "physio"
+    },
+    {
+      "id": "05062d95-20fb-44bd-ae87-eb5dc58b1e0c",
+      "name": "dennis",
+      "category": "coach"
+    },
+    {
+      "id": "64ef4b50-5fb4-4cb2-9203-3bf6ce1f1b73",
+      "name": "kenneth",
+      "category": "coach"
+    },
+    {
+      "id": "126e8c1f-cbb0-4e27-9d95-b2148c5006c1",
+      "name": "Sandro",
+      "category": "player"
+    },
+    {
+      "id": "d0206f35-4a51-4a56-bec7-3d2383ecfc45",
+      "name": "Maria",
+      "category": "physio"
+    },
+    {
+      "id": "1bbd7750-56a8-4ad3-a228-c681eca11e7c",
+      "name": "Kenneth",
+      "category": "player"
+    },
+    {
+      "id": "250e322e-eeb8-43ce-acd2-9d212de01500",
+      "name": "dennis",
+      "category": "coach"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "d5961732-b139-4b6d-a2f2-f4ff1253a829",
+      "title": "Planera träningspass",
+      "description": "förberedda passings övningar för laget",
+      "category": "coach",
+      "status": "doing",
+      "assignedto": "05062d95-20fb-44bd-ae87-eb5dc58b1e0c",
+      "timestamp": "2026-03-05T14:07:17.451Z"
+    },
+    {
+      "id": "e8ccc1e5-403e-4ed8-8e53-a9ee63051be7",
+      "title": "Rehab",
+      "description": "Rehabilitering för de skadade spelarna",
+      "category": "physio",
+      "status": "done",
+      "assignedto": "d0206f35-4a51-4a56-bec7-3d2383ecfc45",
+      "timestamp": "2026-03-05T14:08:57.392Z"
+    },
+    {
+      "id": "c4118258-516e-4f2e-a9dd-c36fe08b3e1c",
+      "title": "Cross bollar",
+      "description": "Förbättra cross bollar för att utveckla kant byten i spelet",
+      "category": "player",
+      "status": "new",
+      "assignedto": null,
+      "timestamp": "2026-03-05T14:10:52.330Z"
+    },
+    {
+      "id": "26bd3175-4855-4bcd-8253-5b5003569474",
+      "title": "Match recap",
+      "description": "Kollar tillbaka helgens match och pratar om misstagen och förbättringar",
+      "category": "coach",
+      "status": "new",
+      "assignedto": null,
+      "timestamp": "2026-03-05T14:24:25.304Z"
+    },
+    {
+      "id": "ad0449fd-70be-4060-aa6e-dacce5686a46",
+      "title": "återhämtning",
+      "description": "leda återhämtningträningen för spelarana ",
+      "category": "physio",
+      "status": "new",
+      "assignedto": null,
+      "timestamp": "2026-03-05T14:26:43.456Z"
+    },
+    {
+      "id": "158adcc9-f6f5-42d2-a961-2622cad5ac35",
+      "title": "Lag aktivitet",
+      "description": "planerat aktivitet för mina lagkamrater så vi kan lära känna varann mer",
+      "category": "player",
+      "status": "new",
+      "assignedto": null,
+      "timestamp": "2026-03-05T14:28:28.590Z"
+    },
+    {
+      "id": "1f7d90cd-fe79-4f0f-ad56-aa56d07f43cd",
+      "title": "bhuef",
+      "description": "bruefk",
+      "category": "coach",
+      "status": "new",
+      "assignedto": null,
+      "timestamp": "2026-03-05T19:14:57.653Z"
+    }
+  ]
+}
